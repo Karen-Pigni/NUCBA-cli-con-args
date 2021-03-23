@@ -49,6 +49,11 @@
       "user": "pam",
       "category": 4,
       "address": "Cabildo 126"
+    },
+    {
+      "user": "nuevo user",
+      "category": 3,
+      "address": "Encalada 12"
     }
   ]
 }

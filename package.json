@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
-    "dev": "nodemon --watch index.js"
+    "dev": "nodemon --watch index.js",
+    "append":  "run-func crud.js append"
   },
   "author": "",
   "license": "ISC",
